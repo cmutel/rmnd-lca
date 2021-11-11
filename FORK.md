@@ -25,3 +25,5 @@ Create a new virtual env. This can be done in conda or pip; I give instructions 
     pip install -e .
 
 ## Usage
+
+Example usage is given in `dev/bw25 integration.ipynb`. Note that this assumes the premise encryption key is provided as the environment variable `PREMISE_KEY`.
