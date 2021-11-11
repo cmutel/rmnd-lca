@@ -39,7 +39,7 @@ setup(
         "bw2io>=0.8",
         "pandas",
         "bw2data",
-        "brightway2",
+        # "brightway2",
         "xarray",
         "carculator",
         "carculator_truck",
